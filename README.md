@@ -38,51 +38,51 @@ Custom CMS application built with .NET 8 MVC. This repository showcases both the
 
 ### Home page
 
-![Home page](screenshots/home_page.png)
+![Home page](Screenshots/home_page.png)
 
 ### News (Posts)
 
-![News](screenshots/news.png)
+![News](Screenshots/news.png)
 
 #### Edit Post Form
 
-![Edit Post Form](screenshots/news_edit_article.png)
+![Edit Post Form](Screenshots/news_edit_article.png)
 
 ##### Insert HTML content into an editable div
 
-![Insert HTML](screenshots/news_edit_article_insert_html.png)
+![Insert HTML](Screenshots/news_edit_article_insert_html.png)
 
 ##### Resize an inserted image by double-clicking it
 
-![Resize image](screenshots/news_edit_article_resize_image.png)
+![Resize image](Screenshots/news_edit_article_resize_image.png)
 
 #####Insert a link into selected text
 
-![Link text](screenshots/news_edit_article_link_text.png)
+![Link text](Screenshots/news_edit_article_link_text.png)
 
 ### Movies
 
-![Movies](screenshots/movies.png)
+![Movies](Screenshots/movies.png)
 
 #### Movie details
 
-![Movie details](screenshots/movie_details.png)
+![Movie details](Screenshots/movie_details.png)
 
 #### Edit Movie Form
 
-![Edit Movie Form](screenshots/edit_movie.png)
+![Edit Movie Form](Screenshots/edit_movie.png)
 
 ##### Delete Movie Warning 
 
-![Delete Movie Warning](screenshots/delete_movie_warning.png)
+![Delete Movie Warning](Screenshots/delete_movie_warning.png)
 
 ### Videos
 
-![Videos](screenshots/videos.png)
+![Videos](Screenshots/videos.png)
 
 #### Edit Videos Form
 
-![Edit Videos](screenshots/edit_video.png)
+![Edit Videos](Screenshots/edit_video.png)
 
 ## Notes
 
