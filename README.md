@@ -56,7 +56,7 @@ Custom CMS application built with .NET 8 MVC. This repository showcases both the
 
 ![Resize image](Screenshots/news_edit_article_resize_image.png)
 
-#####Insert a link into selected text
+##### Insert a link into selected text
 
 ![Link text](Screenshots/news_edit_article_link_text.png)
 
@@ -76,6 +76,18 @@ Custom CMS application built with .NET 8 MVC. This repository showcases both the
 
 ![Delete Movie Warning](Screenshots/delete_movie_warning.png)
 
+### Gallery
+
+![Gallery](Screenshots/gallery.png)
+
+#### Allows scrolling the gallery by double-clicking an image
+
+![Gallery scrollbar](Screenshots/gallery_scrollbar.png)
+
+#### Edit Gallery Item Form
+
+![Edit Gallery Item Form](Screenshots/edit_gallery_item.png)
+
 ### Videos
 
 ![Videos](Screenshots/videos.png)
@@ -83,6 +95,30 @@ Custom CMS application built with .NET 8 MVC. This repository showcases both the
 #### Edit Videos Form
 
 ![Edit Videos](Screenshots/edit_video.png)
+
+### About Author
+
+![About Author](Screenshots/about_author.png)
+
+#### Edit About Author Form
+
+![Edit About Author Form](Screenshots/edit_about_author.png)
+
+### Admin Panel
+
+![Admin Panel](Screenshots/admin_panel.png)
+
+#### Users
+
+![Users](Screenshots/users.png)
+
+##### Edit User Form
+
+![Edit User Form](Screenshots/edit_user.png)
+
+#### Change password
+
+![Change Password Form](Screenshots/change_password.png)
 
 ## Notes
 
