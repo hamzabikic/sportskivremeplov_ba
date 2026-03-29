@@ -1,2 +1,95 @@
-# sportskivremeplov_ba
-Custom .NET 8 MVC CMS application with an admin panel for managing News, Films, Gallery, Videos, and About Author sections. Features editable HTML content via contenteditable div, media uploads, and database-driven storage for images, videos, and film entries. Source code is private; repository showcases UI and functionality.
+# Custom .NET 8 MVC CMS
+
+Custom CMS application built with .NET 8 MVC. This repository showcases both the admin interface and front-end user functionality, while source code remains private for security reasons.
+
+## Features
+
+### Admin Features
+
+* News management
+* Films section management
+* Gallery image uploads
+* Video management
+* "About Author" content editing
+* Editable HTML content (contenteditable div)
+* Database-driven content storage
+* Media upload support (images & videos)
+
+### User / Front-End Features
+
+* View latest news
+* Browse films and film details
+* Explore gallery images
+* Watch uploaded videos
+* Read "About Author" section
+* Responsive design for different devices
+
+## Tech Stack
+
+* .NET 8
+* ASP.NET MVC
+* Entity Framework
+* SQL Database
+* HTML
+* CSS
+* JavaScript
+
+## Screenshots
+
+### Home page
+
+![Home page](screenshots/home_page.png)
+
+### News (Posts)
+
+![News](screenshots/news.png)
+
+#### Edit Post Form
+
+![Edit Post Form](screenshots/news_edit_article.png)
+
+##### Insert HTML content into an editable div
+
+![Insert HTML](screenshots/news_edit_article_insert_html.png)
+
+##### Resize an inserted image by double-clicking it
+
+![Resize image](screenshots/news_edit_article_resize_image.png)
+
+#####Insert a link into selected text
+
+![Link text](screenshots/news_edit_article_link_text.png)
+
+### Movies
+
+![Movies](screenshots/movies.png)
+
+#### Movie details
+
+![Movie details](screenshots/movie_details.png)
+
+#### Edit Movie Form
+
+![Edit Movie Form](screenshots/edit_movie.png)
+
+##### Delete Movie Warning 
+
+![Delete Movie Warning](screenshots/delete_movie_warning.png)
+
+### Videos
+
+![Videos](screenshots/videos.png)
+
+#### Edit Videos Form
+
+![Edit Videos](screenshots/edit_video.png)
+
+## Notes
+
+This project is currently used in production.
+Source code is not publicly available for security reasons.
+This repository is intended to showcase both UI/UX and CMS functionality.
+
+## Author
+
+Custom CMS developed as a personal solution.
