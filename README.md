@@ -1,19 +1,20 @@
-# Custom .NET 8 MVC CMS
+# Custom .NET 8 MVC CMS (sportskivremeplov.ba)
 
-Custom CMS application built with .NET 8 MVC. This repository showcases both the admin interface and front-end user functionality, while source code remains private for security reasons.
+Custom CMS application built with .NET 8 MVC. This repository showcases both the admin interface and front-end user functionality, while the source code remains private for security reasons. All relevant security mechanisms and best practices have been implemented. The CMS follows modern UI principles, with sections optimized for fast content editing and the ability to modify HTML structure directly, without any code changes.
 
 ## Features
 
 ### Admin Features
 
-* News management
-* Films section management
-* Gallery image uploads
-* Video management
+* News management (add, edit, delete news items)
+* Films section management (add, edit, delete movie items)
+* Gallery image uploads and management (add, edit, delete gallery items)
+* "Videos" content editing
 * "About Author" content editing
-* Editable HTML content (contenteditable div)
+* Editable HTML content via contenteditable div
 * Database-driven content storage
 * Media upload support (images & videos)
+* User account management (create, edit, delete user accounts)
 
 ### User / Front-End Features
 
