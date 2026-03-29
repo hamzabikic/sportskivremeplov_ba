@@ -44,6 +44,10 @@ Custom CMS application built with .NET 8 MVC. This repository showcases both the
 
 ![News](Screenshots/news.png)
 
+#### Post item
+
+![Post item](Screenshots/news_item.png)
+
 #### Edit Post Form
 
 ![Edit Post Form](Screenshots/news_edit_article.png)
