@@ -133,6 +133,10 @@ Custom CMS application built with .NET 8 MVC. This repository showcases both the
 
 ![Change Password Form](Screenshots/change_password.png)
 
+## Demo Video: Adding a Post
+
+[![Demo Video: Adding a Post](Screenshots/news_add_article.png)](Videos/sportskivremeplovba_demonstration.mp4)
+
 ## Notes
 
 This project is currently used in production.
