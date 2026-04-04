@@ -57,6 +57,10 @@ Custom CMS application built with .NET 8 MVC. This repository showcases both the
 
 ![Insert HTML](Screenshots/news_edit_article_insert_html.png)
 
+##### Insert image by url
+
+![Insert image by url](Screenshots/news_edit_article_insert_image_by_url.png)
+
 ##### Resize an inserted image by double-clicking it
 
 ![Resize image](Screenshots/news_edit_article_resize_image.png)
@@ -64,6 +68,10 @@ Custom CMS application built with .NET 8 MVC. This repository showcases both the
 ##### Insert a link into selected text
 
 ![Link text](Screenshots/news_edit_article_link_text.png)
+
+##### HTML Editing from Editor (new functionality)
+
+![HTML Editing from Editor](Screenshots/news_edit_article_html_editing_from_editor.png)
 
 ### Movies
 
